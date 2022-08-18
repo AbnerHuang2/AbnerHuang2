@@ -1,7 +1,7 @@
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 ## Abner Huang (is me. 🌻)
-- 🔭 I’m a Software Engineer, majoring in Backend.
+- 🔭 I’m a Software Engineer, Majoring in Backend.
 - 👯 I write about technologies that interest me in [My Blog](https://skitii.vercel.app).
 - 💬 Let's talk about Language Technologies, SpringBoot, Mysql,RocketMQ, and maybe Cloud Orchestration.
 - 📫 **How to reach me**: [Website](https://skitii.vercel.app/) 
