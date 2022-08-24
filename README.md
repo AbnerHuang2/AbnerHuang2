@@ -13,6 +13,9 @@
 
 <div  align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbnerHuang2&show_icons=true&theme=radical&cache_seconds=1800&locale=en" alt="Abner" /> </div>
 
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerHuang2)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-season-animate.svg)
