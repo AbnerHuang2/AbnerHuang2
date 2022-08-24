@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&color=26B1A6&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=610&height=210&lines=Hi+there+%F0%9F%91%8B%2C;Welcome+to+My+Profile%2C;I+am+Abner%2C;A+Backend+developer+from+Guangzhou+China%2C;Always+learning+new+things%2C;Microservices+and+middleware;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&color=26B1A6&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&width=610&height=210&lines=Hi+there+%F0%9F%91%8B%2C;Welcome+to+My+Profile%2C;I+am+Abner%2C;A+Backend+developer+from+Guangzhou+China%2C;Always+learning+new+things%2C;Microservices+and+middleware+...;)](https://git.io/typing-svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
