@@ -19,7 +19,8 @@
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-season-animate.svg)
-![](https://raw.githubusercontent.com/li-xiao-shuang/li-xiao-shuang/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/AbnerHuang2/gihubSNK/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/AbnerHuang2/gihubSNK/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 <hr>
 
