@@ -24,9 +24,6 @@
 
 <hr>
 
-### How to reach me 📫 
-- **Email：abner110@foxmail.com**
-- **Website：https://skitii.vercel.app**
 
 
 <!-- 
