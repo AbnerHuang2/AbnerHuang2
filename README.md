@@ -19,7 +19,9 @@
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-season-animate.svg)
-![](https://raw.githubusercontent.com/AbnerHuang2/gihubSNK/output/github-contribution-grid-snake.svg)
+
+<!-- snake -->
+![dark](https://github.com/AbnerHuang2/gihubSNK/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
